@@ -22,7 +22,7 @@ A slick, free tool to rename all your files and folders in one go. Built with lo
 - Optional: `UPX` for smaller builds (download from upx.github.io, put in `FileRenamer/`)
 
 ### Steps
-1. Clone this repo: `git clone https://github.com/[your-username]/FileRenamer.git`
+1. Clone this repo: `git clone https://github.com/FallDown57/FileRenamer.git`
 2. `cd FileRenamer`
 3. Run `build.bat` (Windows) or `pyinstaller --noconsole --icon=assets/icon.ico --add-data "assets;assets" renamer.py`
 4. Find `renamer.exe` in `dist/renamer/` (multi-file) or `dist/` (one-file).
